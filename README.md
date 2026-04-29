@@ -69,4 +69,4 @@ mini-ecommerce/
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-*Created with ❤️ by [Your Name/Github]*
+*Created with ❤️ by [Ali Hamza]*
