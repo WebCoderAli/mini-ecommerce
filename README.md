@@ -2,7 +2,8 @@
 
 A modern, premium, and fully functional mini e-commerce application built with PHP, MySQL, and a focus on high-end design aesthetics.
 
-![Luxe Store Banner](https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&q=80&w=1200&h=400)
+<img width="929" height="421" alt="luxe" src="https://github.com/user-attachments/assets/af5d24f9-ea03-4be4-8de4-b401218a5ced" />
+
 
 ## 🌟 Features
 
